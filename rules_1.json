@@ -14,6 +14,77 @@
       "urlFilter" : "*://googleadservices.com/*"
     }
   }
-]
 
+  {
+    "id" : 2,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" : "*://*.zedo.com/*"
+    }
+  }
+
+  {
+    "id" : 2,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" : "*://*.scorecardresearch.com/*"
+    }
+  }
+
+  {
+    "id" : 2,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" : "*://*.quantserve.com/*"
+    }
+  }
+
+  {
+    "id" : 2,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" : "*://*.exponential.com/*"
+    }
+  }
+
+  {
+    "id" : 2,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" : "*://*.adbrite.com/*"
+    }
+  }
+
+  {
+    "id" : 2,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" : "*://creative.ak.fbcdn.net/*"
+    }
+  }
+
+  {
+    "id" : 2,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" : "*://*.google-analytics.com/*"
+    }
+  }
+
+  {
+    "id" : 2,
+    "priority": 1,
+    "action" : { "type" : "block" },
+    "condition" : {
+      "urlFilter" : "*://*.googlesyndication.com/*"
+    }
+  }
+]
 
