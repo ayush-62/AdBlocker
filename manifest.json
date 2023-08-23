@@ -11,13 +11,6 @@
       "path": "rules_1.json"
     }]
   }
-
-  // "background": {
-  //     "service_worker": "background.js"
-  // },
-  // "icons": {
-  //     "48": "icon.png"
-  // },
   
 }
 
